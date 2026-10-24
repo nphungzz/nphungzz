@@ -1,6 +1,6 @@
 👋 Hi, I'm Hung!
 
-🎓 AI Engineering Student | 🤖 Aspiring AI Engineer
+🎓 AI Engineering Student | Aspiring AI Engineer
 
 I'm an AI engineering student passionate about Machine Learning, Deep Learning, and Computer Vision. I enjoy building AI projects to solve real-world problems and continuously improving my technical skills.
 
@@ -10,12 +10,11 @@ I'm an AI engineering student passionate about Machine Learning, Deep Learning, 
 
 💻 Interested in Machine Learning Engineering and AI applications
 
-📫 Contact: your-email@example.com
+📫 Contact: nguyenbahung2k6@gmail.com
 
 🛠️ Tech Stack
 
 Programming Languages
-
 
 
 
@@ -24,7 +23,7 @@ AI & Machine Learning
 
 
 
-
 Tools
 
+⭐ Thanks for visiting my profile!
 
